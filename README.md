@@ -4,9 +4,9 @@ A real-time global intelligence dashboard built with React, TypeScript, and inte
 
 ## Live at: http://localhost:3000
 
-![dash](https://github.com/tspannhw/SNACKAI-CoCo-situation-desk/blob/main/sitdesk.png?raw=true)
+![dash](https://raw.githubusercontent.com/tspannhw/SNACKAI-CoCo-situation-desk/refs/heads/main/sitdesk.png)
 
-![dash](https://github.com/tspannhw/SNACKAI-CoCo-situation-desk/blob/main/sitdesk2.png?raw=true)
+![dash](https://raw.githubusercontent.com/tspannhw/SNACKAI-CoCo-situation-desk/refs/heads/main/sitdesk2.png)
 
 
 ## Features
